@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Het Hirani! 👋
 
-<!--
-**HetHirani07/HetHirani07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Student | Developer**
 
-Here are some ideas to get you started:
+> _Crafting seamless digital experiences through Code & Design._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Technologies
+
+- **Languages:** JavaScript, Python, C, Java, SQL
+- **Frameworks/Libraries:** Next.js, React, Numpy, Pandas
+- **And more…**
+
+---
+
+### 👨‍💻 About Me
+
+As a passionate student and self-driven developer, I love building web experiences that are both beautiful and functional. Whether it's front-end magic with React/Next.js or back-end logic in Python, C, or Java, I enjoy learning and experimenting with new tech.
+
+- 🌱 Currently learning and exploring new technologies
+- 🤝 Open to collaborating on cool projects
+- 🎯 Always striving to improve my skills
+
+---
+
+### 🌐 Connect with Me
+
+You can find my social links and more on my [GitHub profile](https://github.com/HetHirani07)!
+
+---
+
+_Thank you for stopping by!_
