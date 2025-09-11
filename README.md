@@ -26,7 +26,7 @@ As a passionate student and self-driven developer, I love building web experienc
 
 ### 🌐 Connect with Me
 
-You can find my social links and more on my [GitHub profile](https://github.com/HetHirani07)!
+You can find my social links and more on my [profile](https://het-hirani.vercel.app)!
 
 ---
 
